@@ -6,9 +6,10 @@
 <p>Я победитель <strong>олимпиад</strong> "Шаг в будущее", "Покори Воробьёвы горы" и других.</p>
 <p>Я член IT отдела студенческого совета ИУ, являюсь <strong>backend разработчиком</strong> на python.</p>
 
-<!--навыки-->
+<!--стек-->
 <h3>Мой стек языков:</h3>
 <div>
   <img src="img/cplusplus.svg" alt="C++" width="10%"> 
   <img src="img/dotnet.svg" alt=".net" width="10%">
+  <img src="img/python.svg" alt="python" width="10%">
 </div>
