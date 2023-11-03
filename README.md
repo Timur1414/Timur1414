@@ -8,3 +8,4 @@
 
 <!--навыки-->
 <h3>Мой стек языков:</h3>
+<img src="img/cplusplus.svg" alt="C++" width="10%">
