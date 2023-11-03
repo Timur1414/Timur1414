@@ -18,5 +18,5 @@
 </div>
 <h3>Мой стек технологий:</h3>
 <div>
-  <img>
+  <img src="img/django.svg" alt="django" width="10%">
 </div>
