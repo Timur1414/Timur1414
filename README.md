@@ -13,4 +13,5 @@
   <img src="img/dotnet.svg" alt=".net" width="10%">
   <img src="img/python.svg" alt="python" width="10%">
   <img src="img/html5.svg" alt="HTML5" width="10%">
+  <img src="img/css3.svg" alt="CSS3" width="10%">
 </div>
