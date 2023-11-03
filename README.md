@@ -16,3 +16,7 @@
   <img src="img/css3.svg" alt="CSS3" width="10%">
   <img src="img/javascript.svg" alt="JS" width="10%">
 </div>
+<h3>Мой стек технологий:</h3>
+<div>
+  <img>
+</div>
