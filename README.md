@@ -12,4 +12,5 @@
   <img src="img/cplusplus.svg" alt="C++" width="10%"> 
   <img src="img/dotnet.svg" alt=".net" width="10%">
   <img src="img/python.svg" alt="python" width="10%">
+  <img src="img/html5.svg" alt="HTML5" width="10%">
 </div>
