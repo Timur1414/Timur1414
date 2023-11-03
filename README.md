@@ -22,4 +22,5 @@
   <img src="img/unity.svg" alt="unity" width="10%">
   <img src="img/unrealengine.svg" alt="unreal engine" width="10%">
   <img src="img/linux.svg" alt="linux" width="10%">
+  <img src="img/windows.svg" alt="windows" width="10%">
 </div>
