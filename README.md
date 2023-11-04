@@ -7,6 +7,7 @@
 <p>Я член IT отдела студенческого совета ИУ, являюсь <strong>backend разработчиком</strong> на python.</p>
 
 <!--стек-->
+<hr>
 <h3>Мой стек языков:</h3>
 <div>
   <img src="img/cplusplus.svg" alt="C++" width="10%"> 
@@ -26,3 +27,7 @@
   <img src="img/windows.svg" alt="windows" width="10%">
   <img src="img/sqlite.svg" alt="sqlite" width="10%">
 </div>
+
+<!--статистика-->
+<hr>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Timur1414&theme=blood-dark&hide_border=true&locale=ru&hide_current_streak=true" alt="GitHub Streak" /></a>
