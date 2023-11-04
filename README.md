@@ -31,3 +31,5 @@
 <!--статистика-->
 <hr>
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Timur1414&theme=blood-dark&hide_border=true&locale=ru&hide_current_streak=true" alt="GitHub Streak" /></a>
+<br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Timur1414&theme=radical)
