@@ -24,4 +24,5 @@
   <img src="img/unrealengine.svg" alt="unreal engine" width="10%">
   <img src="img/linux.svg" alt="linux" width="10%">
   <img src="img/windows.svg" alt="windows" width="10%">
+  <img src="img/sqlite.svg" alt="sqlite" width="10%">
 </div>
